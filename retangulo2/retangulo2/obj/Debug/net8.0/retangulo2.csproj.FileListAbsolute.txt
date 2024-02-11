@@ -1,0 +1,14 @@
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\obj\Debug\net8.0\retangulo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\obj\Debug\net8.0\retangulo2.AssemblyInfoInputs.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\obj\Debug\net8.0\retangulo2.AssemblyInfo.cs
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\obj\Debug\net8.0\retangulo2.csproj.CoreCompileInputs.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\bin\Debug\net8.0\retangulo2.exe
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\bin\Debug\net8.0\retangulo2.deps.json
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\bin\Debug\net8.0\retangulo2.runtimeconfig.json
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\bin\Debug\net8.0\retangulo2.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\bin\Debug\net8.0\retangulo2.pdb
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\obj\Debug\net8.0\retangulo2.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\obj\Debug\net8.0\refint\retangulo2.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\obj\Debug\net8.0\retangulo2.pdb
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\obj\Debug\net8.0\retangulo2.genruntimeconfig.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\retangulo2\retangulo2\obj\Debug\net8.0\ref\retangulo2.dll

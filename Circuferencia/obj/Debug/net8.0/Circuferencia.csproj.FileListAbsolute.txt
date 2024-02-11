@@ -1,0 +1,14 @@
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\obj\Debug\net8.0\Circuferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\obj\Debug\net8.0\Circuferencia.AssemblyInfoInputs.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\obj\Debug\net8.0\Circuferencia.AssemblyInfo.cs
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\obj\Debug\net8.0\Circuferencia.csproj.CoreCompileInputs.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\bin\Debug\net8.0\Circuferencia.exe
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\bin\Debug\net8.0\Circuferencia.deps.json
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\bin\Debug\net8.0\Circuferencia.runtimeconfig.json
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\bin\Debug\net8.0\Circuferencia.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\bin\Debug\net8.0\Circuferencia.pdb
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\obj\Debug\net8.0\Circuferencia.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\obj\Debug\net8.0\refint\Circuferencia.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\obj\Debug\net8.0\Circuferencia.pdb
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\obj\Debug\net8.0\Circuferencia.genruntimeconfig.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Circuferencia\obj\Debug\net8.0\ref\Circuferencia.dll

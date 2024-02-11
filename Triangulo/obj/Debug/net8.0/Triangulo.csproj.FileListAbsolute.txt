@@ -1,0 +1,14 @@
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\bin\Debug\net8.0\Triangulo.exe
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\bin\Debug\net8.0\Triangulo.deps.json
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\bin\Debug\net8.0\Triangulo.runtimeconfig.json
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\bin\Debug\net8.0\Triangulo.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\bin\Debug\net8.0\Triangulo.pdb
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\obj\Debug\net8.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\obj\Debug\net8.0\Triangulo.AssemblyInfoInputs.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\obj\Debug\net8.0\Triangulo.AssemblyInfo.cs
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\obj\Debug\net8.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\obj\Debug\net8.0\Triangulo.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\obj\Debug\net8.0\refint\Triangulo.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\obj\Debug\net8.0\Triangulo.pdb
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\obj\Debug\net8.0\Triangulo.genruntimeconfig.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\Triangulo\obj\Debug\net8.0\ref\Triangulo.dll
